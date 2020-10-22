@@ -10,7 +10,7 @@ var app = (function () {
 
         // The map, centered at Uluru
         const map = new google.maps.Map(document.getElementById("map"), {
-            zoom: 8,
+            zoom: 10,
             center: uluru,
         });
         // The marker, positioned at Uluru
