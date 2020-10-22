@@ -1,4 +1,4 @@
-const apiUrl = "http://localhost:8080/Ciudades/"
+//const apiUrl = "http://localhost:8080/Ciudades/"
 const heroku = "https://herreradavid-arsw-t2.herokuapp.com/Ciudades"
 apiClient = (function () {
 
